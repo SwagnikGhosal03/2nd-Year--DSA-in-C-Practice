@@ -39,7 +39,6 @@ int pop(struct stack *ptr){
         ptr->top--;
         return data;
     }
-    
 }
 int main ()
 {
